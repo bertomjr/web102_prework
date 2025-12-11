@@ -1,4 +1,4 @@
-# WEB102 Prework - Video Game CrowdFunding Site
+# WEB102 Prework - Video Game Crowdfunding Site
 
 Submitted by: Roberto Marcillo Jr
 
